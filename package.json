@@ -3,6 +3,7 @@
   "description": "todo-list made and edited by Ahmed Swaby",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ahmedswaby.github.io/todo-list/",
   "dependencies": {
     "dateformat": "^4.5.1",
     "node-sass": "^5.0.0",
